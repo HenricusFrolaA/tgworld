@@ -1,0 +1,57 @@
+
+/*for lean more*/
+
+  body {
+     font-family: Arial, Helvetica, sans-serif;
+      }
+    * {box-sizing: border-box;}
+
+/*end of lean tages*/
+
+.vertical-manu{
+	background-color: #eee;
+
+}
+
+.vertical-manu a{
+display: block;
+padding: 12px;
+font-size: 18px;
+text-decoration: none;
+}
+
+.vertical-manu a:hover{
+	background-color: #ccc
+}
+.nav{
+	margin: 0px;
+}
+
+/*for popup display*/
+
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 3; 
+    overflow: auto; 
+    padding-top: 50px;
+    background-size: cover;
+   }
+
+
+ .modal-content {
+    background-color: #fefefe;
+    margin: 5% auto 5% auto; 
+    border: 1px solid #888;
+    width: 50%; 
+  }
+
+/*.................submit style..................................*/
+#stheader {
+    border: 1px solid gray;
+    background-color: #eee;
+}
+
+
+
+
