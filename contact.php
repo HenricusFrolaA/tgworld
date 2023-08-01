@@ -310,13 +310,48 @@
         <div class="container">
 
           <h2 class="section-title">Contact Information</h2>
-          
-          <div class="row">
+          <span>feel free to send us a message now!</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="contact-information">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="contact-item">
+              <i class="fa fa-phone"></i>
+              <h4>Phone</h4>
+              <!-- <p>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.</p> -->
+              <a href="#">+255 27 254 6146</a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="contact-item">
+              <i class="fa fa-envelope"></i>
+              <h4>Email</h4>
+              <p>cotact with our customer care by using this email</p>
+              <a href="#">info@tgworld.com</a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="contact-item">
+              <i class="fa fa-map-marker"></i>
+              <h4>Location</h4>
+              <p>202 Sinza-kumekucha Pr complex<br> DAR ER SALAAM </p>
+              <a href="#">View on Google Maps</a>
+            </div>
+          </div>
+        </div>
+      </div>
+  
+          <!-- <div class="row">
             
             <div class="col-md-8 col-sm-12">
               
-              <!-- Google map -->
-              <div class="map-section">
+              <- Google map -->
+              <!-- <div class="map-section">
                 <div id="googleMap" class="map-container type-2"></div>
               </div>
 
@@ -331,12 +366,12 @@
                   <a href="http://maps.google.com?q=41.9791948,-87.9461776" class="info-btn" target="_blank">Get Directions</a>
                 </div>
 
-              </div>
+              </div -->
 
-              <div class="content-element7">
+              <!-- <div class="content-element7">
                 
                 <div class="tabs tabs-section clearfix">
-                  <!--tabs navigation-->                  
+                  tabs navigation                  
                   <ul class="tabs-nav clearfix">
                     <li class="">
                       <a href="#tab-1">Sale</a>
@@ -349,10 +384,12 @@
                     </li>
                   </ul>
                   <!--tabs content-->                 
-                  <div class="tabs-content">
+                  <!-- <div class="tabs-content">
                     <div id="tab-1">
 
-                      <div class="contact-section">
+                      >9:00 AM - 5:00 PM</span> -->
+                          </div> -->
+                          <!-- <div class="<div class="contact-section">
                         
                         <div class="contact-item">
                           <h6 class="contact-title"><i class="licon-telephone"></i>Phone</h6>
@@ -384,12 +421,10 @@
                           </div>
                           <div class="flex-row flex-justify">
                             <span class="contact-desc">Friday</span>
-                            <span class="contact-desc">9:00 AM - 5:00 PM</span>
-                          </div>
-                          <div class="flex-row flex-justify">
+                            <span class="contact-desc"flex-row flex-justify"> -->
                             <span class="contact-desc">Saturday</span>
                             <span class="contact-desc">9:00 AM - 2:00 PM</span>
-                          </div>
+                          <!-- </div>
                           <div class="flex-row flex-justify">
                             <span class="contact-desc">Sunday</span>
                             <span class="contact-desc">Closed</span>
@@ -427,9 +462,9 @@
                             <span class="contact-desc">Wednesday</span>
                             <span class="contact-desc">9:00 AM - 5:00 PM</span>
                           </div>
-                          <div class="flex-row flex-justify">
-                            <span class="contact-desc">Thursday</span>
-                            <span class="contact-desc">9:00 AM - 5:00 PM</span>
+                          <div class="flex-row flex-justify"> -->
+                            <!-- <span class="contact-desc">Thursday</span> -->
+                            <!-- <span class="contact-desc">9:00 AM - 5:00 PM</span>
                           </div>
                           <div class="flex-row flex-justify">
                             <span class="contact-desc">Friday</span>
@@ -460,10 +495,10 @@
                         <div class="contact-item">
                           <h6 class="contact-title"><i class="licon-at-sign"></i>email</h6>
                           <a href="#" class="contact-desc">sale@companyname.com</a>
-                        </div>
+                        </div> -->
 
-                        <div class="contact-item">
-                          <h6 class="contact-title"><i class="licon-clock3"></i>Opening Hours</h6>
+                        <!-- <div class="contact-item"> -->
+                          <!-- <h6 class="contact-title"><i class="licon-clock3"></i>Opening Hours</h6>
                           <div class="flex-row flex-justify">
                             <span class="contact-desc">Monday</span>
                             <span class="contact-desc">9:00 AM - 5:00 PM</span>
@@ -496,7 +531,7 @@
 
                       </div>
 
-                    </div>
+                    </div> -->
                   </div>
                 </div>
 
@@ -711,7 +746,7 @@
   <script src="js/libs/retina.min.js"></script>
   <script src="plugins/mad.customselect.js"></script>
   <script src="plugins/sticky-sidebar.js"></script>
-  <script src ="googleMa" class="map-container"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.881618720867!2d39.21805487102354!3d-6.784258251322052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4fd3dedc09ed%3A0xf2669a7e964249c9!2sPR%20COMPLEX%20-%20SINZA!5e0!3m2!1sen!2stz!4v1687293384728!5m2!1sen!2stz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></script>
+  <div id="googleMa" class="map-container"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.881618720867!2d39.21805487102354!3d-6.784258251322052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4fd3dedc09ed%3A0xf2669a7e964249c9!2sPR%20COMPLEX%20-%20SINZA!5e0!3m2!1sen!2stz!4v1687293384728!5m2!1sen!2stz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
 
   <script src="plugins/jquery.queryloader2.min.js"></script>
   <script src="plugins/owl.carousel.min.js"></script>
