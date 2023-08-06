@@ -67,6 +67,7 @@ img {
   max-height: 100px;
   position: relative;
   margin: auto;
+  z-index: -100;
 
 }
 

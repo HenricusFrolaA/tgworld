@@ -293,52 +293,45 @@
 
 
 
-    <div class="media-holder" data-bg="images/1920x800_bg1.jpg">
+    <div class="media-holder">
 
 
       <div class="slideshow-container">
 
         <div class="mySlides fade">
           <div class="numbertext">1 / 5</div>
-          <img src="./images/car4 (1).JPG" style="width:100%;">
-          <div class="text">Tg good and qulity product</div>
+          <img src="./images/car4 (1).JPG" style="width:100%">
+          <!-- <div class="text">Tg good and qulity product</div> -->
         </div>
 
         <div class="mySlides fade">
           <div class="numbertext">2 / 5</div>
-          <img src="./images/car4 (2).JPG" style="width:100%;">
-          <div class="text">Tg good and qulity product</div>
+          <img src="./images/car4 (2).JPG" style="width:100%">
+          <!-- <div class="text">Tg good and qulity product</div> -->
         </div>
 
         <div class="mySlides fade">
           <div class="numbertext">3 / 5</div>
-          <img src="./images/car4 (6).JPG" style="width:100%;">
-          <div class="text">Tg good and qulity product</div>
+          <img src="./images/car4 (6).JPG" style="width:100%">
+          <!-- <div class="text">Tg good and qulity product</div> -->
         </div>
 
         <div class="mySlides fade">
-          <div class="numbertext">3 / 5</div>
-          <img src="./images/car4 (4).JPG" style="width:100%;">
-          <div class="text">Tg good and qulity product</div>
+          <div class="numbertext">4 / 5</div>
+          <img src="./images/car4 (4).JPG" style="width:100%">
+          <!-- <div class="text">Tg good and qulity product</div> -->
         </div>
 
         <div class="mySlides fade">
-          <div class="numbertext">3 / 5</div>
-          <img src="./images/cars-vs.png" style="width:100%;">
-          <div class="text">Tg good and qulity product</div>
+          <div class="numbertext">5 / 5</div>
+          <img src="./images/cars-vs.png" style="width:100%">
+          <!-- <div class="text">Tg good and qulity product</div> -->
         </div>
 
       </div>
-      <br>
 
-      <div style="text-align:center">
-        <span class="dot"></span>
-        <span class="dot"></span>
-        <span class="dot"></span>
-        <span class="dot"></span>
-        <span class="dot"></span>
 
-      </div>
+
 
 
       <div class="container">
@@ -493,6 +486,15 @@
             </div>
           </div>
         </div>
+
+      </div>
+      <br>
+      <div style="text-align:center">
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
 
       </div>
 
